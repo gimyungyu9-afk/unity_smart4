@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Testscript : MonoBehaviour
 {
-    private stirng name = "±Ë¿±±‘";
+    private string name = "±Ë¿±±‘";
     private int age = 26;
     private string MBTI = "INFJ";
 
